@@ -1,0 +1,20 @@
+# Node.js
+node_modules/
+
+# Parcel
+.cache/
+
+# Build output
+dist/
+
+# Environment variables
+.env
+
+# IDE and editor files
+.vscode/
+.idea/
+
+
+
+# Windows
+Thumbs.db
